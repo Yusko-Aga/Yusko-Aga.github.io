@@ -1,0 +1,10 @@
+category,option,price
+format,A4,0.50
+format,A5,0.40
+
+lineType,Crte,1.50
+lineType,Karo,1.50
+lineType,Prazne stranice,0.50
+
+binding,Klamano,8.00
+binding,Spirala,3.00
